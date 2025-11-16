@@ -94,6 +94,7 @@ int main()
         {
             std::cout << "Invalid!! Operator Selected...Please Try Again!!";
         }
+        std::cout<<"Thank you"<<std::endl;
     }
 
     return 0;
@@ -278,3 +279,4 @@ void div()
     std::cout << "|_______________________________|" << std::endl;
     std::cout << "CALCULATED ANSWER: " << ans << std::endl;
 }
+
